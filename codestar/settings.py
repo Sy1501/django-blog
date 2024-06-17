@@ -134,4 +134,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = [
     'https://8000-sy1501-djangoblog-uflykan7gl9.ws-eu114.gitpod.io',
+    "https://*.herokuapp.com"
 ]
